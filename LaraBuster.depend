@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1714147899 source:l:\escritorio\proyecto\borrador proyecto1\larabuster\empleado.cpp
+	"empleado.h"
+	<iostream>
+
+1714146535 l:\escritorio\proyecto\borrador proyecto1\larabuster\empleado.h
+	<iostream>
+
+1714147822 source:l:\escritorio\proyecto\borrador proyecto1\larabuster\main.cpp
+	<iostream>
+	"empleado.h"
+
